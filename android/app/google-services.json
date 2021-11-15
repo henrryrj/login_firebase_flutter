@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772685099179",
+    "project_id": "encuestasapp-e3fc3",
+    "storage_bucket": "encuestasapp-e3fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772685099179:android:b6084e356de79f7e5a47ee",
+        "android_client_info": {
+          "package_name": "com.encuestasApp.encuesta_login_movil_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772685099179-k9k7bq6t3rg4tmketmhfoq1ikki112s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFtxAHu5A3we_Y7zaJi6tJc1Ca1yOgTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772685099179-k9k7bq6t3rg4tmketmhfoq1ikki112s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
